@@ -1,0 +1,14 @@
+**/.gradle/
+**/.idea/
+**/*.iml
+**/test/
+**/out/
+**/.classpath
+**/.project
+**/.settings
+**/node_modules/
+*.bak
+*.MF
+*.log
+package-lock.json
+**/dist/
